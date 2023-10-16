@@ -1,3 +1,5 @@
+[![An image of @crypticrevenger's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crypticrevenger)](https://holopin.io/@crypticrevenger)
+
 ### Greetings, tech aficionados! 👋
 
 # 💫 About Me:
