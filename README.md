@@ -3,7 +3,7 @@
 ### Greetings, tech aficionados! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Coding Skills<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Machine Learning with Ethical Hacking<br>💬 Ask me about any Tech-related Stuff<br>📫 How to reach me tripathyspandan23@gmail.com<br>⚡ Fun fact  : I am also interested in Web Development 
+🔭 I’m currently working on Coding Skills<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Machine Learning with Ethical Hacking<br>💬 Ask me about any Tech-related Stuff<br>📫 How to reach me spandan.tripathy23@gmail.com<br>⚡ Fun fact  : I am also interested in Web Development 
 
 
 ## 🌐 Socials:
